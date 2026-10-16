@@ -12,7 +12,7 @@ Foco em **Cloud/AWS**, **Dados** e **Desenvolvimento de Software**
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, com conclusão prevista para 2027. Estou em busca da minha primeira oportunidade de estágio em tecnologia para aplicar meus conhecimentos, aprender com profissionais da área e contribuir com soluções úteis.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, com conclusão prevista para 2027. Atualdo atualmente como Dev FullStack Jr na consorcio sondotecnica alphageos.
 
 Tenho interesse em desenvolvimento de software, banco de dados, análise de dados, inteligência artificial e computação em nuvem. Gosto de aprender na prática, documentar o que desenvolvo e transformar problemas em soluções simples e organizadas.
 
